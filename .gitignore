@@ -103,6 +103,10 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# Mac OS
+.DS_Store
+
+# Application
 /input
 /output
 
